@@ -1,10 +1,10 @@
-# 📋 Inventario con Listas Simples
+#  Inventario con Listas Simples
 
 Este proyecto es una aplicación web que implementa un sistema de inventario usando **listas simples (listas enlazadas)** como estructura de datos principal, desarrollada con **HTML**, **CSS** y **JavaScript**.
 
 ---
 
-## 🧰 Funcionalidades
+##  Funcionalidades
 
 - Crear o insertar productos al inventario  
 - Eliminar productos  
@@ -13,7 +13,7 @@ Este proyecto es una aplicación web que implementa un sistema de inventario usa
 
 ---
 
-## 🗂 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 
@@ -31,7 +31,7 @@ Este proyecto es una aplicación web que implementa un sistema de inventario usa
 
 ---
 
-## ⚙️ Tecnologías empleadas
+##  Tecnologías empleadas
 
 - **HTML5** — estructura de la página  
 - **CSS3** — estilos y presentación  
@@ -39,7 +39,7 @@ Este proyecto es una aplicación web que implementa un sistema de inventario usa
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 1. Clona el repositorio:
   ```
@@ -58,7 +58,7 @@ Este proyecto es una aplicación web que implementa un sistema de inventario usa
 
 ---
 
-## 💡 Ejemplo de uso
+##  Ejemplo de uso
 
 * **Agregar producto**
   Ingresa nombre, código, cantidad y precio → haz clic en “Agregar”.
@@ -74,7 +74,7 @@ Este proyecto es una aplicación web que implementa un sistema de inventario usa
 
 ---
 
-## 🔄 Función de listas simples
+##  Función de listas simples
 
 En este proyecto se aprovecha la estructura de **listas enlazadas simples**, lo que permite:
 
@@ -85,14 +85,14 @@ En este proyecto se aprovecha la estructura de **listas enlazadas simples**, lo 
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **JuanEnC**
 🔗 Repositorio: [https://github.com/JuanEnC/inventarioConListasSimples](https://github.com/JuanEnC/inventarioConListasSimples)
 
 ---
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto está bajo la **licencia MIT**.
 
